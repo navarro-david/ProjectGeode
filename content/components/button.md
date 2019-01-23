@@ -7,30 +7,22 @@ Display an actionable button in your page.
 
 {{<button align="center" href="#" theme="warning" >}} This is a warning button {{< /button >}}
 
-## Usage 
+## Implementation
 
-| Parameter | Default | Description |
+| Style | Class | Description |
 |:--|:--|:--|
-| href | "" | The location href to link to |
-| align | "center" | horizontal align button on page |
-| theme | `primary` | `default`, `primary` , `success`,`info`,`warning`,`danger` |
+| {{<button align="center" href="#" >}} Continue {{< /button >}} | `theme=''` | Just a Regular Button |
+| {{<button align="center" href="#" theme="success">}} Success {{< /button >}}| `theme='success'` | Just a Successful Button |
+| {{<button align="center" href="#" theme="info">}} Info {{< /button >}} | `theme='info'` | Just a Smart Button |
+| {{<button align="center" href="#" theme="warning">}} Warning {{< /button >}} | `theme='warning'` | Just a Cautious Button |
+| {{<button align="center" href="#" theme="danger">}} Danger ! {{< /button >}} | `theme=''` | Just a Dramatic Button |
+| {{<button align="center" href="#" theme="default">}} Ok {{< /button >}} | `theme='default'` | Just a Boring Button |
 
-The inner text you place in short code will be displayed as the _button text_
-
-## Demo
-
-	{{</* button href="https://google.com" */>}} go to google {{</* /button */>}}
-	{{</* button href="https://google.com" theme="success" */>}} Success {{</* /button */>}}
-	{{</* button href="https://google.com" theme="info" */>}} Info {{</* /button */>}}
-	{{</* button href="https://google.com" theme="warning" */>}} Warning {{</* /button */>}}
-	{{</* button href="https://google.com" theme="danger" */>}} Danger ! {{</* /button */>}}
-	{{</* button href="https://google.com" theme="default" */>}} Danger ! {{</* /button */>}}
     
-{{<button href="https://google.com" >}} go to google {{< /button >}}
-{{<button href="https://google.com" theme="success">}} Success {{< /button >}}
-{{<button href="https://google.com" theme="info">}} Info {{< /button >}}
-{{<button href="https://google.com" theme="warning">}} Warning {{< /button >}}
-{{<button href="https://google.com" theme="danger">}} Danger ! {{< /button >}}
-{{<button href="https://google.com" theme="default">}} Danger ! {{< /button >}}
+
+
+
+
+
 
 
