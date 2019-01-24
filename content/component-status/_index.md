@@ -8,4 +8,8 @@ Track the progress of audited Teletrac Navman UI components.
 
 | Item | Mockup | Guideline | Example Code | Implementation
 |:--|:--|:--|:--|:--|
-| alert | {{< figure src="../static/svgs/circle.svg" >}} |  |  |  |
+| <p align="center">alert</p> | {{<figure src="svgs/circle.svg">}} | {{<figure src="svgs/circle.svg">}} | {{<figure src="svgs/circle.svg">}} | {{<figure src="svgs/circle.svg">}} |
+| <p align="center">button</p> | {{<figure src="svgs/circle.svg">}} | {{<figure src="svgs/circle.svg">}} | {{<figure src="svgs/circle.svg">}} | {{<figure src="svgs/circle.svg">}} |
+| <p align="center">callout</p> | {{<figure src="svgs/circle.svg">}} | {{<figure src="svgs/circle.svg">}} | {{<figure src="svgs/circle.svg">}} | {{<figure src="svgs/circle.svg">}} |
+| <p align="center">dialog</p> | {{<figure src="svgs/circle.svg">}} | {{<figure src="svgs/circle.svg">}} | {{<figure src="svgs/circle.svg">}} | {{<figure src="svgs/circle.svg">}} |
+
