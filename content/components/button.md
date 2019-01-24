@@ -12,12 +12,12 @@ Display an actionable button in your page.
 
 <!-- Tab links -->
 <div class="tab">
-  <button class="tablinks" onload="openTab(event, 'Implementation')" onclick="openTab(event, 'Implementation')">Implementation</button>
+  <button class="tablinks" onclick="openTab(event, 'Implementation')">Implementation</button>
   <button class="tablinks" onclick="openTab(event, 'Guidelines')">Guidelines</button>
 </div>
 
 <!-- Tab content -->
-<div id="Implementation" class="tabcontent">
+<div id="Implementation" class="tabcontent active" style="display: block;">
   <h3>Implementation</h3>
 
   <table>
