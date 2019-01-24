@@ -8,4 +8,4 @@ Track the progress of audited Teletrac Navman UI components.
 
 | Item | Mockup | Guideline | Example Code | Implementation
 |:--|:--|:--|:--|:--|
-|alert|||||
+| alert | {{< figure src="../static/svgs/circle.svg" >}} |  |  |  |
