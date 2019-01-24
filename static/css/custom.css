@@ -14,6 +14,10 @@ article > aside .menu .dd-item.active > div * {
     border-bottom: 2px solid black; 
 }
 
+article section.page h1:first-of-type {
+    font-family: "Roboto", "Arial", sans-serif;
+}
+
 /*************END***************/
 /***DocDock Styling Overrides***/
 /*************END***************/
