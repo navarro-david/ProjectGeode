@@ -1,4 +1,6 @@
-/* Style header */
+/*************BEGIN*************/
+/***DocDock Styling Overrides***/
+/*************BEGIN*************/
 
 header {
     -webkit-box-align: center;
@@ -19,6 +21,7 @@ header {
     top: 0;
     z-index: 100; }
     header:after {
+      background: url("") 0 0/100% no-repeat;
       background-color: #97CA49;
       content: '';
       height: .35rem;
@@ -65,6 +68,14 @@ header {
         padding: 0 1rem; }
         header nav.shortcuts li a label {
           margin-bottom: 0rem; }
+
+article > aside .menu .dd-item.active > div * {
+    font-weight: bold;
+    border-bottom: 2px solid black; }
+
+/*************END***************/
+/***DocDock Styling Overrides***/
+/*************END***************/
 
 
 /* Style the tab */

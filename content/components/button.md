@@ -79,6 +79,12 @@ Display an actionable button in your page.
         <li>When using buttons to prompt a user to move through a sequence of screens (e.g. getting started guides), right-align the primary button to visually support navigation. Exceptions include user benefits modals and other modals where buttons are centered, with the primary button on the right.
         </li>
     </ui>
+
+    <h5>Grouped Buttons</h5>
+    <p>Grouped buttons give people access to frequently performed, related actions. Use grouped buttons when there is a close relationship between a number of buttons. Common placements of grouped buttons can be found in Jira issues or while editing Confluence pages. This pattern is normally used at the top of the page.</p>
+     <img src="https://atlassian.design/uploads/guidelines/product/buttons/button-group.png" style="max-width:800px;">
+
+
 </div>
 
 
