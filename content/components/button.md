@@ -18,7 +18,7 @@ Display an actionable button in your page.
 
 <!-- Tab content -->
 <div id="Implementation" class="tabcontent active" style="display: block;">
-  <h3>Implementation</h3>
+  <h5>Button Variations</h5>
 
   <table>
   <tr>
@@ -60,9 +60,25 @@ Display an actionable button in your page.
 </div>
 
 <div id="Guidelines" class="tabcontent">
-    <h3>Design Guidelines</h3>
+    <h5>Button</h5>
+    <p>Use buttons to trigger actions and links. Buttons can contain a combination of a clear label and an icon while links are always text.</p>
+    <img src="https://atlassian.design/uploads/guidelines/product/buttons/button-anatomy.png" style="max-width:800px;">
+
+    <h5>Writing Labels</h5>
     <p>Button labels use sentence case and are as short as possible, while clearly explaining what happens when the button is activated.</p>
-    <img src="https://atlassian.design/uploads/guidelines/product/buttons/button-naming.png">
+    <ol>
+        <li><strong>Icon: </strong>Use an icon to convey more meaning.</li>
+        <li><strong>Label: </strong>Text that indicates the result of selecting the button.</li>
+    </ol>
+    <img src="https://atlassian.design/uploads/guidelines/product/buttons/button-naming.png" style="max-width:800px;">
+
+    <h5>Button Order and Alignment</h5>
+    <p>Buttons are aligned depending on context:</p>
+    <ui>
+        <li>For single page forms and focused tasks, left-align buttons and sort by importance from left to right.</li>
+        <li>When using buttons to prompt a user to move through a sequence of screens (e.g. getting started guides), right-align the primary button to visually support navigation. Exceptions include user benefits modals and other modals where buttons are centered, with the primary button on the right.
+        </li>
+    </ui>
 </div>
 
 
