@@ -5,14 +5,9 @@ description = "Display an actionable button in your page."
 
 Display an actionable button in your page.
 
-{{<button align="center" href="#" theme="warning" >}} This is a warning button {{< /button >}}
-
-## Implementation
-
-
 <!-- Tab links -->
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'Implementation')">Implementation</button>
+  <button class="tablinks active" onclick="openTab(event, 'Implementation')">Implementation</button>
   <button class="tablinks" onclick="openTab(event, 'Guidelines')">Guidelines</button>
 </div>
 
