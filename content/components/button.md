@@ -13,7 +13,7 @@ Display an actionable button in your page.
 
 <!-- Tab content -->
 <div id="Implementation" class="tabcontent active" style="display: block;">
-  <h5>Button Variations</h5>
+  <h4>Button Variations</h4>
 
   <table>
   <tr>
@@ -52,21 +52,19 @@ Display an actionable button in your page.
     <td>Just a Boring Button</td>
   </tr>
   </table>
-
-    <h5>Example Implementation Code</h5>
-    
+    <h4>Example Implementation Code</h4>
     <pre>
 
     <code>&lt;button href=&quot;#&quot; theme=&quot;&quot;&gt; myButton &lt;/button&gt;</code>
     </pre>
 
-    <h5>Result</h5>
+    <h4>Result</h4>
     {{<button href="#">}}myButton{{</button>}}
 
 </div>
 
 <div id="Guidelines" class="tabcontent">
-    <h5>Anatomy</h5>
+    <h4>Anatomy</h4>
     <div style="display:flex;">
     <img src="https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1CohpRuQZDOxIDHVQgMp4ly0VAZ8KW2jO%2Fbuttons-anatomy-all.png" style="max-width:800px;">
     </div>
@@ -107,7 +105,7 @@ Display an actionable button in your page.
             </li>
         </ol>
     </div>
-    <h5>Hiearchy</h5>
+    <h4>Hiearchy</h4>
     <strong>A single, prominent button</strong>
     <p>A layout should contain a single prominent button that makes it clear that other buttons have less importance in the hierarchy. This high-emphasis button commands the most attention.</p>
     <strong>Other buttons</strong>
