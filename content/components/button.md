@@ -52,6 +52,14 @@ Display an actionable button in your page.
     <td>Just a Boring Button</td>
   </tr>
   </table>
+
+    <h5>Example Button Implementation</h5>
+    
+    <pre>
+    
+    <code>&lt;button href=&quot;#&quot; theme=&quot;&quot;&gt; myButton &lt;/button&gt;</code>
+    </pre>
+
 </div>
 
 <div id="Guidelines" class="tabcontent">
