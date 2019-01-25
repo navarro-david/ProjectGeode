@@ -1,7 +1,7 @@
 ---
 title: "Color Palette"
 date: 2019-01-25T10:01:28-08:00
-draft: false
+draft: true
 ---
 
 <h4>Color Palette</h4>
