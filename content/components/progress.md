@@ -1,5 +1,5 @@
 +++
-title = "progress bars"
+title = "progress"
 +++
 
 <!-- Tab links -->

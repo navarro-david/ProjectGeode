@@ -41,6 +41,13 @@ draft: false
     <td><img src="svgs/cs-queue.svg"></td> 
     <td><img src="svgs/cs-circle.svg"></td> 
   </tr>
+  <tr align="center">
+    <td>[progress](/components/progress)</td>
+    <td><img src="svgs/cs-circle.svg"></td> 
+    <td><img src="svgs/cs-done.svg"></td> 
+    <td><img src="svgs/cs-queue.svg"></td> 
+    <td><img src="svgs/cs-progress.svg"></td> 
+  </tr>
 </table>
 
 
