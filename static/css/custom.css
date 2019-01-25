@@ -18,6 +18,9 @@ article section.page h1:first-of-type {
     font-family: "Roboto", "Arial", sans-serif;
 }
 
+article section.page img {
+    margin: 0;
+}
 /*************END***************/
 /***DocDock Styling Overrides***/
 /*************END***************/
