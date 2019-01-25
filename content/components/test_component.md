@@ -23,4 +23,9 @@ draft = "true"
 <div id="Guidelines" class="tabcontent">
   <h3>Guidelines</h3>
   <p>Guidelines is the capital of France.</p> 
+  <video width="750" controls autoplay loop controls muted>
+    <source src="https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1tMC9VSgobnJkZjvqeAqCdqcegf0eij7N%2F01-usage-types-linear-circular.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
+

@@ -84,4 +84,16 @@ article section.page img {
     margin: auto;
 }
 
+.color-palette-table{
+    overflow-x: auto;
+}
+
+.color-palette-table table {
+    border-style: none;
+    text-align: center;
+    vertical-align: middle;
+    height: 100px;
+    color: white;
+}
+
 /**** Color Palette Component Styling *****/

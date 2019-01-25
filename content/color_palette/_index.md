@@ -5,11 +5,42 @@ draft: true
 ---
 
 <h4>Color Palette</h4>
-<div class="color-palette-row">
-    <div class="color-palette-tile" style="background-color:red;"><p>Hello</p></div>
-    <div class="color-palette-tile" style="background-color:orange;"><p>Hello</p></div>
-    <div class="color-palette-tile" style="background-color:yellow;"><p>Hello</p></div>
-    <div class="color-palette-tile" style="background-color:green;"><p>Hello</p></div>
-    <div class="color-palette-tile" style="background-color:blue;"><p>Hello</p></div>
-    <div class="color-palette-tile" style="background-color:purple;"><p>Hello</p></div>
+<div class="color-palette-table">
+        <table style="border-style: none;">
+        <tr>
+            <td>Hello</td>
+            <td>Hello</td>
+            <td>Hello</td>
+            <td>Hello</td>
+            <td>Hello</td>
+        </tr>
+        <tr align="center">
+            <td>alert</td>
+            <td><img src="svgs/cs-done.svg"></td> 
+            <td><img src="svgs/cs-queue.svg"></td> 
+            <td><img src="svgs/cs-queue.svg"></td> 
+            <td><img src="svgs/cs-circle.svg"></td> 
+        </tr>
+        <tr align="center">
+            <td>[button](/components/button)</td>
+            <td><img src="svgs/cs-done.svg"></td> 
+            <td><img src="svgs/cs-done.svg"></td> 
+            <td><img src="svgs/cs-done.svg"></td> 
+            <td><img src="svgs/cs-done.svg"></td> 
+        </tr>
+        <tr align="center">
+            <td>callout</td>
+            <td><img src="svgs/cs-progress.svg"></td> 
+            <td><img src="svgs/cs-progress.svg"></td> 
+            <td><img src="svgs/cs-circle.svg"></td> 
+            <td><img src="svgs/cs-circle.svg"></td> 
+        </tr>
+        <tr align="center">
+            <td>dialog</td>
+            <td><img src="svgs/cs-progress.svg"></td> 
+            <td><img src="svgs/cs-progress.svg"></td> 
+            <td><img src="svgs/cs-queue.svg"></td> 
+            <td><img src="svgs/cs-circle.svg"></td> 
+        </tr>
+    </table>
 </div>
