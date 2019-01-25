@@ -4,7 +4,7 @@ date: 2019-01-23T10:04:28-08:00
 draft: false
 ---
 
-<h5>Component Status</h5>
+<h4>Component Status</h4>
 <table>
   <tr>
     <th>Item</th>

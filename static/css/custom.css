@@ -26,7 +26,7 @@ article section.page img {
 /*************END***************/
 
 
-/* Style the tab */
+/**** Tab Styling ****/
 .tab {
     overflow: hidden;
     border-bottom: 2px solid #97CA49;
@@ -65,3 +65,23 @@ article section.page img {
     /* border: 1px solid #43B5A2; */
     border-top: none;
 }
+/**** Tab Styling END ****/
+
+.color-palette-row {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+}
+
+.color-palette-tile {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+}
+
+.color-palette-tile p {
+    width: 100px;
+    margin: auto;
+}
+
+/**** Color Palette Component Styling *****/
