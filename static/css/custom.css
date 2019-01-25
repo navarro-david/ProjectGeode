@@ -21,6 +21,11 @@ article section.page h1:first-of-type {
 article section.page img {
     margin: 0;
 }
+
+/* article section.page table td{
+    border-style: none;
+} */
+
 /*************END***************/
 /***DocDock Styling Overrides***/
 /*************END***************/
@@ -94,6 +99,7 @@ article section.page img {
 }
 
 .color-palette-table th, td {
+    border-style: none;
     color:white;
     font-weight: 700;
 }
