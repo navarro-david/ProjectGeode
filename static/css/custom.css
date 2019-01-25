@@ -27,6 +27,7 @@ article section.page h1:first-of-type {
 .tab {
     overflow: hidden;
     border-bottom: 2px solid #97CA49;
+    padding: 0 15px;
     font-weight: 700;
     color: #333;
   }

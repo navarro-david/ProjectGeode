@@ -66,30 +66,55 @@ Display an actionable button in your page.
 </div>
 
 <div id="Guidelines" class="tabcontent">
-    <h5>Button</h5>
-    <p>Use buttons to trigger actions and links. Buttons can contain a combination of a clear label and an icon while links are always text.</p>
-    <img src="https://atlassian.design/uploads/guidelines/product/buttons/button-anatomy.png" style="max-width:800px;">
-
-    <h5>Writing Labels</h5>
-    <p>Button labels use sentence case and are as short as possible, while clearly explaining what happens when the button is activated.</p>
-    <ol>
-        <li><strong>Icon: </strong>Use an icon to convey more meaning.</li>
-        <li><strong>Label: </strong>Text that indicates the result of selecting the button.</li>
-    </ol>
-    <img src="https://atlassian.design/uploads/guidelines/product/buttons/button-naming.png" style="max-width:800px;">
-
-    <h5>Button Order and Alignment</h5>
-    <p>Buttons are aligned depending on context:</p>
-    <ui>
-        <li>For single page forms and focused tasks, left-align buttons and sort by importance from left to right.</li>
-        <li>When using buttons to prompt a user to move through a sequence of screens (e.g. getting started guides), right-align the primary button to visually support navigation. Exceptions include user benefits modals and other modals where buttons are centered, with the primary button on the right.
-        </li>
-    </ui>
-
-    <h5>Grouped Buttons</h5>
-    <p>Grouped buttons give people access to frequently performed, related actions. Use grouped buttons when there is a close relationship between a number of buttons. Common placements of grouped buttons can be found in Jira issues or while editing Confluence pages. This pattern is normally used at the top of the page.</p>
-     <img src="https://atlassian.design/uploads/guidelines/product/buttons/button-group.png" style="max-width:800px;">
-
+    <h5>Anatomy</h5>
+    <div style="display:flex;">
+    <img src="https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1CohpRuQZDOxIDHVQgMp4ly0VAZ8KW2jO%2Fbuttons-anatomy-all.png" style="max-width:800px;">
+    </div>
+    <div style="display:flex;">
+        <ol start="1">
+            <li>Text button
+                <ol type="A">
+                    <li>Text label</li>
+                    <li>Icon (optional)</li>
+                </ol>
+            </li>
+        </ol>
+        <ol start="2">
+            <li>Outlined button
+                <ol type="A">
+                    <li>Text label</li>
+                    <li>Container</li>
+                    <li>Icon (optional)</li>
+                </ol>
+            </li>
+        </ol>
+        <ol start="3">
+            <li>Contained button
+                <ol type="A">
+                    <li>Text label</li>
+                    <li>Container</li>
+                    <li>Icon (optional)</li>
+                </ol>
+            </li>
+        </ol>
+        <ol start="4">
+            <li>Toggle button
+                <ol type="A">
+                    <li>Text label</li>
+                    <li>Container</li>
+                    <li>Icon (optional)</li>
+                </ol>
+            </li>
+        </ol>
+    </div>
+    <h5>Hiearchy</h5>
+    <strong>A single, prominent button</strong>
+    <p>A layout should contain a single prominent button that makes it clear that other buttons have less importance in the hierarchy. This high-emphasis button commands the most attention.</p>
+    <strong>Other buttons</strong>
+    <p>An app can show more than one button in a layout at a time, so a high-emphasis button can be accompanied by medium- and low-emphasis buttons that perform less important actions. When using multiple buttons, ensure the available state of one button doesn’t look like the disabled state of another.</p>
+    <div style="display:flex;">
+    <img src="https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F0B4V689etGs17czJ6LUFBUkswdkU%2Fbuttons-layout-diagram-01.png" style="max-width:800px;">
+    </div>
 
 </div>
 
