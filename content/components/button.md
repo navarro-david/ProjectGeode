@@ -53,7 +53,7 @@ Display an actionable button in your page.
   </tr>
   </table>
 
-    <h5>Example Button Implementation</h5>
+    <h5>Example Implementation Code</h5>
     
     <pre>
 
