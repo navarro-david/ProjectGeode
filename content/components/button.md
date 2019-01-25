@@ -56,9 +56,12 @@ Display an actionable button in your page.
     <h5>Example Button Implementation</h5>
     
     <pre>
-    
+
     <code>&lt;button href=&quot;#&quot; theme=&quot;&quot;&gt; myButton &lt;/button&gt;</code>
     </pre>
+
+    <h5>Result</h5>
+    {{<button href="#">}}myButton{{</button>}}
 
 </div>
 
