@@ -34,7 +34,7 @@ draft: false
     <td><img src="svgs/cs-done.svg"></td> 
     <td><img src="svgs/cs-done.svg"></td> 
     <td><img src="svgs/cs-done.svg"></td> 
-    <td><img src="svgs/cs-done.svg"></td> 
+    <td><a href="https://tfs.navmanwireless.com/tfs/DefaultCollection/Purple/Purple%20Team/_workitems?id=207603&_a=edit">TFS Purple (207603)</td> 
   </tr>
   <tr align="center">
     <td>callout</td>
