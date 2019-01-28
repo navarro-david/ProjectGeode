@@ -59,3 +59,4 @@ draft: false
   </tr>
 </table>
 {{%/excerpt%}}
+{{% alert theme="warning" %}}This is just a POC and does not reflect real components in production{{% /alert %}}
