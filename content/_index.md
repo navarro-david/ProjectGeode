@@ -12,7 +12,7 @@ draft: false
     <p>Welcome to Project Geode, your style guide to Teletrac Navman UI elements<p>
 </div>
 
-
+{{%excerpt%}}
 <h4>Component Status</h4>
 <table>
   <tr>
@@ -58,3 +58,4 @@ draft: false
     <td><img src="svgs/cs-progress.svg"></td> 
   </tr>
 </table>
+{{%/excerpt%}}
