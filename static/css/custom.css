@@ -70,6 +70,8 @@ article section.page img {
 }
 /**** Tab Styling END ****/
 
+/**** Color Palette Component Styling *****/
+
 .color-palette-row {
     display: flex;
     flex-flow: row nowrap;
@@ -104,4 +106,25 @@ article section.page img {
     font-weight: 700;
 }
 
-/**** Color Palette Component Styling *****/
+/**** Color Palette Component Styling END *****/
+
+/**** Component Status Legend *****/
+
+.component-status-legend ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+  
+.component-status-legend li {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: left;
+}
+
+.component-status-legend img {
+    margin: 5px;
+}
