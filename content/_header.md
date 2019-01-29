@@ -3,6 +3,5 @@ title: "Project Geode"
 ---
 
 <a href="/">
-    <img href="/" src="/logo.png" alt="">
-    Project Geode
+    <img href="/" src="/logo_name2.png" alt="">
 </a>

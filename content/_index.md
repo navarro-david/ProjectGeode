@@ -5,9 +5,8 @@ draft: false
 ---
 
 <div>
-    <div style="display: flex; align-items: center;">
-        <img src="/logo.png" alt="" width="100" style="margin: 25px;">
-        <h1>Project Geode</h1>
+    <div style="display: flex; align-items: center; margin-top: 50px;">
+        <img src="/logo_name1.png" alt="" width="400">
     </div>
     <p>Welcome to Project Geode, your style guide to Teletrac Navman UI elements<p>
 </div>
