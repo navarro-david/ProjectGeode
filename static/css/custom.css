@@ -127,4 +127,9 @@ article section.page img {
 
 .component-status-legend img {
     margin: 5px;
+    float:left;
+}
+
+.component-status-legend p {
+    margin: 5px;
 }
