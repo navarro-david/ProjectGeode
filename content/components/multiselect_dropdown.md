@@ -1,6 +1,5 @@
 ---
 title: "multi-select dropdown menu"
-date: 2019-01-31T10:04:28-08:00
 draft: true
 ---
 

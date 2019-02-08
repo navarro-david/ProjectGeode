@@ -1,6 +1,7 @@
-+++
-title = "progress"
-+++
+---
+title: "progress"
+draft: false
+---
 
 <!-- Tab links -->
 <div class="tab">

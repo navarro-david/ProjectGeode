@@ -1,8 +1,8 @@
-+++
-title = "test_component"
-description = "Display an actionable button in your page."
-draft = "true"
-+++
+---
+title: ".test_component"
+draft: true
+date: 2019-01-23T10:04:28-08:00
+---
 
 <h6>Use this page to test different ways to display HTML on component pages</h6>
 <h6>Leave in draft mode</h6>

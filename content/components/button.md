@@ -1,7 +1,7 @@
-+++
-title = "button"
-description = "Display an actionable button in your page."
-+++
+---
+title: "button"
+draft: false
+---
 
 Display an actionable button in your page.
 
