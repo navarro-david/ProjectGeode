@@ -9,7 +9,7 @@ date: 2019-01-23T10:04:28-08:00
 
 <!-- Tab links -->
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'tab1')">tab1</button>
+  <button class="tablinks active" onclick="openTab(event, 'tab1')">tab1</button>
   <button class="tablinks" onclick="openTab(event, 'tab2')">tab2</button>
 </div>
 
