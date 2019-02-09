@@ -64,6 +64,13 @@ draft: false
     <td><img src="svgs/cs-queue.svg"></td> 
     <td><img src="svgs/cs-progress.svg"></td> 
   </tr>
+  <tr align="center">
+    <td>[tiles](/components/tiles)</td>
+    <td><img src="svgs/cs-done.svg"></td> 
+    <td><img src="svgs/cs-circle.svg"></td> 
+    <td><img src="svgs/cs-circle.svg"></td> 
+    <td><img src="svgs/cs-circle.svg"></td> 
+  </tr>
 </table>
 {{%/excerpt%}}
 {{% alert theme="warning" %}}This is just a POC and does not reflect real components in production{{% /alert %}}
