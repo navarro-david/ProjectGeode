@@ -1,5 +1,5 @@
 ---
-title: ".test_component"
+title: "test_component"
 draft: true
 date: 2019-01-23T10:04:28-08:00
 ---
