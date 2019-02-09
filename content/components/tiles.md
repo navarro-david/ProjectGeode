@@ -10,12 +10,14 @@ title: "tiles"
 
 <!-- Tab content -->
 <div id="Example" class="tabcontent active" style="display: block;">
-<style>
-.code-type, #html-box, #css-box, #js-box{
-  display: none;
-}
-</style>
-  <p class="codepen" data-height="600" data-theme-id="light" data-default-tab="result" data-user="navarro-david" data-slug-hash="YBxGZv" style="height: 509px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="544E_tile_im">
+  <h4>Interaction Mockup of Tiles</h4>
+  <h5>Functionality:</h5>
+  <ul>
+    <li>Click to toggle state of tile</li>
+    <li>Double click to turn all on or off</li>
+    <li>Have ability to hide tiles with 0 value</li>
+  </ul>
+  <p class="codepen" data-height="410" data-theme-id="light" data-default-tab="result" data-user="navarro-david" data-slug-hash="YBxGZv" style="height: 509px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="544E_tile_im">
   <span>See the Pen <a href="https://codepen.io/navarro-david/pen/YBxGZv/">
   544E_tile_im</a> by David Navarro (<a href="https://codepen.io/navarro-david">@navarro-david</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
