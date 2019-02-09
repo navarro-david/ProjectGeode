@@ -17,9 +17,10 @@ title: "multi-select dropdown"
     <li>Some tags are limited to choosing one (In this example: blue)</li>
     <li>Selected tags should match the color between the item list and bar</li>
     <li>Selected tags should visually change to communicate selection</li>
+    <li>Dropdown menu should be no more that 500px wide in most cases</li>
   </ul>
   <!-- Codepen Embed -->
-  <p class="codepen" data-height="370" data-theme-id="light" data-default-tab="result" data-user="navarro-david" data-slug-hash="XOZVGr" style="height: 370px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="544E_multi_select_dd_im">
+  <p class="codepen" data-height="500" data-theme-id="light" data-default-tab="result" data-user="navarro-david" data-slug-hash="XOZVGr" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="544E_multi_select_dd_im">
   <span>See the Pen <a href="https://codepen.io/navarro-david/pen/XOZVGr/">
   544E_multi_select_dd_im</a> by David Navarro (<a href="https://codepen.io/navarro-david">@navarro-david</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
