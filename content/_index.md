@@ -65,6 +65,13 @@ draft: false
     <td><img src="svgs/cs-progress.svg"></td> 
   </tr>
   <tr align="center">
+    <td>[multi-select dropdown](/components/menus/multi_select_dropdown)</td>
+    <td><img src="svgs/cs-done.svg"></td> 
+    <td><img src="svgs/cs-circle.svg"></td> 
+    <td><img src="svgs/cs-circle.svg"></td> 
+    <td><img src="svgs/cs-circle.svg"></td> 
+  </tr>
+  <tr align="center">
     <td>[tiles](/components/tiles)</td>
     <td><img src="svgs/cs-done.svg"></td> 
     <td><img src="svgs/cs-circle.svg"></td> 
