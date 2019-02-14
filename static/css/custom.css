@@ -1,135 +1,128 @@
 /*************BEGIN*************/
 /***DocDock Styling Overrides***/
 /*************BEGIN*************/
-
-
 header:after {
-    background: url("") 0 0/100% no-repeat;
-    background-color: #97CA49;
+  background: url("") 0 0/100% no-repeat;
+  background-color: #97CA49;
 }
-    
 
 article > aside .menu .dd-item.active > div * {
-    font-weight: bold;
-    border-bottom: 2px solid #97CA49; 
+  font-weight: bold;
+  border-bottom: 2px solid #97CA49;
 }
 
 article section.page h1:first-of-type {
-    font-family: "Roboto", "Arial", sans-serif;
+  font-family: "Roboto", "Arial", sans-serif;
 }
 
 article section.page img {
-    margin: 0;
+  margin: 0;
 }
 
 /* article section.page table td{
     border-style: none;
 } */
-
 /*************END***************/
 /***DocDock Styling Overrides***/
 /*************END***************/
-
-
 /**** Tab Styling ****/
 .tab {
-    overflow: hidden;
-    border-bottom: 2px solid #97CA49;
-    padding: 0 15px;
-    font-weight: 700;
-    color: #333;
-  }
-  
-  /* Style the buttons that are used to open the tab content */
-  .tab button {
-    float: left;
-    /* margin: 4px 0; */
-    border-bottom: none;
-    font-weight: 700;
-    outline: none;
-    cursor: pointer;
-    padding: 14px 16px;
-    transition: 0.3s;
-  }
-  
-  /* Change background color of buttons on hover */
-  .tab button:hover {
-    background-color: #B9E166;
-  }
-  
-  /* Create an active/current tablink class */
-  .tab button.active {
-    background-color: #97CA49;
-    color: white;
-  }
-  
-  /* Style the tab content */
-  .tabcontent {
-    display: none;
-    padding: 30px 15px;
+  overflow: hidden;
+  border-bottom: 2px solid #97CA49;
+  padding: 0 15px;
+  font-weight: 700;
+  color: #333;
 }
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  float: left;
+  /* margin: 4px 0; */
+  border-bottom: none;
+  font-weight: 700;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #B9E166;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #97CA49;
+  color: white;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 30px 15px;
+}
+
 /**** Tab Styling END ****/
-
 /**** Color Palette Component Styling *****/
-
 .color-palette-row {
-    display: flex;
-    flex-flow: row nowrap;
-    justify-content: center;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
 }
 
 .color-palette-tile {
-    width: 100px;
-    height: 100px;
-    background-color: white;
+  width: 100px;
+  height: 100px;
+  background-color: white;
 }
 
 .color-palette-tile p {
-    width: 100px;
-    margin: auto;
+  width: 100px;
+  margin: auto;
 }
 
-.color-palette-table{
-    overflow-x: auto;
+.color-palette-table {
+  overflow-x: auto;
 }
 
 .color-palette-table table {
-    border-style: none;
-    text-align: center;
-    vertical-align: middle;
-    height: 150px;
+  border-style: none;
+  text-align: center;
+  vertical-align: middle;
+  height: 150px;
 }
 
 .color-palette-table th, td {
-    border-style: none;
-    color:white;
-    font-weight: 700;
+  border-style: none;
+  color: white;
+  font-weight: 700;
 }
 
 /**** Color Palette Component Styling END *****/
-
 /**** Component Status Legend *****/
-
 .component-status-legend ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
 }
-  
+
 .component-status-legend li {
-    display: block;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    float: left;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  float: left;
 }
 
 .component-status-legend img {
-    margin: 5px;
-    float:left;
+  margin: 5px;
+  float: left;
 }
 
 .component-status-legend p {
-    margin: 5px;
+  margin: 5px;
 }
+
+/*# sourceMappingURL=custom.css.map */
