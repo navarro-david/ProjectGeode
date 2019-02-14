@@ -14,7 +14,7 @@ draft: false
 {{%excerpt%}}
 <h4>Component Status</h4>
 <div class="component-status-legend">
-  <ul style="list-style-type: none;">
+  <ul>
     <li><span><img src="svgs/cs-circle.svg" style="margin: 2px; display: inline; vertical-align: middle;"> Unassigned</span></li>
     <li><span><img src="svgs/cs-queue.svg" style="margin: 2px; display: inline; vertical-align: middle;">Queued</span></li>
     <li><span><img src="svgs/cs-progress.svg" style="margin: 2px; display: inline; vertical-align: middle;"> In Progress</span></li>

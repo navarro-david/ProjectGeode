@@ -127,10 +127,11 @@ td {
         padding: 14px 16px;
         text-decoration: none;
         float: left;
-    }
-    img {
-        margin: 5px;
-        float: left;
+        span > img {
+            margin: 2px; 
+            display: inline-block; 
+            vertical-align: middle;
+        }
     }
     p {
         margin: 5px;

@@ -112,9 +112,10 @@ td {
   text-decoration: none;
   float: left;
 }
-.component-status-legend img {
-  margin: 5px;
-  float: left;
+.component-status-legend li span > img {
+  margin: 2px;
+  display: inline-block;
+  vertical-align: middle;
 }
 .component-status-legend p {
   margin: 5px;
