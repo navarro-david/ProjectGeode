@@ -30,41 +30,6 @@ draft: false
     <th>Implementation</th>
   </tr>
   <tr align="center">
-    <td>alert</td>
-    <td><img src="svgs/cs-done.svg"></td> 
-    <td><img src="svgs/cs-queue.svg"></td> 
-    <td><img src="svgs/cs-queue.svg"></td> 
-    <td><img src="svgs/cs-circle.svg"></td> 
-  </tr>
-  <tr align="center">
-    <td>[button](/components/button)</td>
-    <td><img src="svgs/cs-done.svg"></td> 
-    <td><img src="svgs/cs-done.svg"></td> 
-    <td><img src="svgs/cs-done.svg"></td> 
-    <td><a href="https://tfs.navmanwireless.com/tfs/DefaultCollection/Purple/Purple%20Team/_workitems?id=207603&_a=edit">TFS Purple (207603)</td> 
-  </tr>
-  <tr align="center">
-    <td>callout</td>
-    <td><img src="svgs/cs-progress.svg"></td> 
-    <td><img src="svgs/cs-progress.svg"></td> 
-    <td><img src="svgs/cs-circle.svg"></td> 
-    <td><img src="svgs/cs-circle.svg"></td> 
-  </tr>
-  <tr align="center">
-    <td>dialog</td>
-    <td><img src="svgs/cs-progress.svg"></td> 
-    <td><img src="svgs/cs-progress.svg"></td> 
-    <td><img src="svgs/cs-queue.svg"></td> 
-    <td><img src="svgs/cs-circle.svg"></td> 
-  </tr>
-  <tr align="center">
-    <td>[progress](/components/progress)</td>
-    <td><img src="svgs/cs-circle.svg"></td> 
-    <td><img src="svgs/cs-done.svg"></td> 
-    <td><img src="svgs/cs-queue.svg"></td> 
-    <td><img src="svgs/cs-progress.svg"></td> 
-  </tr>
-  <tr align="center">
     <td>[multi-select dropdown](/components/menus/multi_select_dropdown)</td>
     <td><img src="svgs/cs-done.svg"></td> 
     <td><img src="svgs/cs-circle.svg"></td> 
@@ -80,4 +45,3 @@ draft: false
   </tr>
 </table>
 {{%/excerpt%}}
-{{% alert theme="warning" %}}This is just a POC and does not reflect real components in production{{% /alert %}}
