@@ -13,36 +13,30 @@ draft: false
 
 {{%excerpt%}}
 <h4>Component Status</h4>
-<div class="component-status-legend">
-  <ul>
-    <li><span><img src="svgs/cs-circle.svg" style="margin: 2px; display: inline; vertical-align: middle;"> Unassigned</span></li>
-    <li><span><img src="svgs/cs-queue.svg" style="margin: 2px; display: inline; vertical-align: middle;">Queued</span></li>
-    <li><span><img src="svgs/cs-progress.svg" style="margin: 2px; display: inline; vertical-align: middle;"> In Progress</span></li>
-    <li><span><img src="svgs/cs-done.svg" style="margin: 2px; display: inline; vertical-align: middle;"> Done</span></li>
-  </ul>
+<div class="component-status-table" style="margin-top: 10px;">
+  <div class="component-status-row-main-header">
+    <span>Item</span>
+    <span>Mockup</span>
+    <span>Guideline</span>
+    <span>Example Code</span>
+    <span>Implementation</span>
+  </div>
+  <div class="component-status-row">
+    <span><a href='{{< ref "/components/tiles.md" >}}'>tile</a></span>
+    <img src="svgs/cs-done.svg">
+    <img src="svgs/cs-progress.svg">
+    <img src="svgs/cs-done.svg">
+    <img src="svgs/cs-progress.svg">
+  </div>
+  <div class="component-status-row-section-header">
+    <span>Menus</span>
+  </div>
+  <div class="component-status-row">
+    <span><a href='{{< ref "/components/menus/multi_select_dropdown.md" >}}'>multi-select</a></span>
+    <img src="svgs/cs-done.svg">
+    <img src="svgs/cs-progress.svg">
+    <img src="svgs/cs-done.svg">
+    <img src="svgs/cs-progress.svg">
+  </div>
 </div>
-<table>
-  <tr>
-    <th>Item</th>
-    <th>Mockup</th> 
-    <th>Guideline</th>
-    <th>Example Code</th>
-    <th>Implementation</th>
-  </tr>
-  <tr align="center">
-    <td>[multi-select dropdown](/components/menus/multi_select_dropdown)</td>
-    <td><img src="svgs/cs-done.svg"></td> 
-    <td><img src="svgs/cs-circle.svg"></td> 
-    <td><img src="svgs/cs-done.svg"></td> 
-    <td><img src="svgs/cs-circle.svg"></td> 
-  </tr>
-  <tr align="center">
-    <td>[tiles](/components/tiles)</td>
-    <td><img src="svgs/cs-done.svg"></td> 
-    <td><img src="svgs/cs-circle.svg"></td> 
-    <td><img src="svgs/cs-done.svg"></td> 
-    <td><img src="svgs/cs-circle.svg"></td> 
-  </tr>
-</table>
 {{%/excerpt%}}
-

@@ -173,5 +173,10 @@ td {
 .component-status-table .component-status-row *:last-child {
   border-right: none;
 }
+.component-status-table .component-status-row img {
+  display: inline;
+  vertical-align: middle;
+  max-width: 16px;
+}
 
 /*# sourceMappingURL=custom.css.map */

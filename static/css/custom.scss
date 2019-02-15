@@ -193,5 +193,11 @@ td {
         *:last-child{
             border-right: none;
         }
+
+        img{
+            display: inline;
+            vertical-align: middle;
+            max-width: 16px;
+        }
     }
 }
