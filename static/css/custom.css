@@ -152,7 +152,8 @@ td {
   border-right: none;
 }
 .component-status-table .component-status-row-section-header {
-  background-color: lightgrey;
+  text-transform: uppercase;
+  background-color: #eeeeee;
   width: 100%;
   display: flex;
   padding: 5px;
@@ -163,17 +164,15 @@ td {
 .component-status-table .component-status-row {
   width: 100%;
   display: flex;
+  color: grey;
 }
 .component-status-table .component-status-row * {
   width: 20%;
   display: flex;
   justify-content: center;
-  border-right: lightgrey solid 1px;
+  border-right: #eeeeee solid 1px;
   padding: 5px 0;
   text-align: center;
-}
-.component-status-table .component-status-row *:first-child {
-  font-weight: bold;
 }
 .component-status-table .component-status-row *:first-child a {
   pointer-events: auto;

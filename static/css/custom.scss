@@ -172,7 +172,8 @@ td {
         }
     }
     .component-status-row-section-header{
-        background-color: lightgrey;
+        text-transform: uppercase;
+        background-color: #eeeeee;
         width: 100%;
         display: flex;
         padding: 5px;
@@ -183,17 +184,17 @@ td {
     .component-status-row{
         width: 100%;
         display: flex;
+        color: grey;
 
         *{
             width: 20%;
             display: flex;
             justify-content: center;
-            border-right: lightgrey solid 1px;
+            border-right: #eeeeee solid 1px;
             padding: 5px 0;
             text-align: center;
         }
         *:first-child{
-            font-weight: bold;
             a{
                 pointer-events: auto;
             }
