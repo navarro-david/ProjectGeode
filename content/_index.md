@@ -118,6 +118,16 @@ draft: false
     <img src="svgs/cs-circle.svg">
   </div>
   <div class="component-status-row-section-header">
+    <span>Date Picker</span>
+  </div>
+  <div class="component-status-row">
+    <span>date picker</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row-section-header">
     <span>Dialogues</span>
   </div>
   <div class="component-status-row">
@@ -204,6 +214,90 @@ draft: false
     <img src="svgs/cs-circle.svg">
   </div>
   <div class="component-status-row-section-header">
+    <span>Progress Indicator</span>
+  </div>
+  <div class="component-status-row">
+    <span>progress indicator</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row-section-header">
+    <span>Selection Controls</span>
+  </div>
+  <div class="component-status-row">
+    <span>checkbox</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row">
+    <span>radio button</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row">
+    <span>switch</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row-section-header">
+    <span>Sheets</span>
+  </div>
+  <div class="component-status-row">
+    <span>side</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row-section-header">
+    <span>Sliders</span>
+  </div>
+  <div class="component-status-row">
+    <span>sliders</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row-section-header">
+    <span>Snackbars</span>
+  </div>
+  <div class="component-status-row">
+    <span>snackbars</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row-section-header">
+    <span>Tabs</span>
+  </div>
+  <div class="component-status-row">
+    <span>tabs</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row-section-header">
+    <span>Text Fields</span>
+  </div>
+  <div class="component-status-row">
+    <span>text fields</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row-section-header">
     <span>Tiles</span>
   </div>
   <div class="component-status-row">
@@ -212,5 +306,25 @@ draft: false
     <img src="svgs/cs-progress.svg">
     <img src="svgs/cs-done.svg">
     <img src="svgs/cs-progress.svg">
+  </div>
+  <div class="component-status-row-section-header">
+    <span>Tooltips</span>
+  </div>
+  <div class="component-status-row">
+    <span>tooltips</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row-section-header">
+    <span>Search</span>
+  </div>
+  <div class="component-status-row">
+    <span>search</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
   </div>
 </div>

@@ -148,6 +148,7 @@ td {
     background-color: $theme-sidebar-color;
     display: flex;
     flex-direction: column;
+    overflow: hidden;
     a{
         pointer-events: none;
     }
