@@ -165,6 +165,37 @@ draft: false
     <img src="svgs/cs-progress.svg">
   </div>
   <div class="component-status-row-section-header">
+    <span>Navigation</span>
+  </div>
+  <div class="component-status-row">
+    <span>tertiary</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row">
+    <span>secondary</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row">
+    <span>global</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row">
+    <span>navigation drawer</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row-section-header">
     <span>Tiles</span>
   </div>
   <div class="component-status-row">
