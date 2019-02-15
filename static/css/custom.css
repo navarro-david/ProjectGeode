@@ -159,10 +159,11 @@ td {
 .component-status-table .component-status-row {
   width: 100%;
   display: flex;
-  align-items: center;
 }
 .component-status-table .component-status-row * {
   width: 20%;
+  display: flex;
+  justify-content: center;
   border-right: lightgrey solid 1px;
   padding: 5px 0;
   text-align: center;

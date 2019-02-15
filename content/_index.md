@@ -4,16 +4,23 @@ date: 2019-01-23T10:04:28-08:00
 draft: false
 ---
 
-<div>
+<div style="margin-bottom: 100px;">
     <div style="display: flex; align-items: center; margin-top: 50px;">
         <img src="/logo_name1.png" alt="" width="400">
     </div>
     <p>Welcome to Project Geode, your style guide to Teletrac Navman UI elements<p>
 </div>
 
-{{%excerpt%}}
 <h4>Component Status</h4>
-<div class="component-status-table" style="margin-top: 10px;">
+<div class="component-status-legend">
+  <ul>
+    <li><span><img src="svgs/cs-circle.svg" style="margin: 2px; display: inline; vertical-align: middle;"> Unassigned</span></li>
+    <li><span><img src="svgs/cs-queue.svg" style="margin: 2px; display: inline; vertical-align: middle;">Queued</span></li>
+    <li><span><img src="svgs/cs-progress.svg" style="margin: 2px; display: inline; vertical-align: middle;"> In Progress</span></li>
+    <li><span><img src="svgs/cs-done.svg" style="margin: 2px; display: inline; vertical-align: middle;"> Done</span></li>
+  </ul>
+</div>
+<div class="component-status-table">
   <div class="component-status-row-main-header">
     <span>Item</span>
     <span>Mockup</span>
@@ -21,22 +28,69 @@ draft: false
     <span>Example Code</span>
     <span>Implementation</span>
   </div>
+  <div class="component-status-row-section-header">
+    <span>Buttons</span>
+  </div>
   <div class="component-status-row">
-    <span><a href='{{< ref "/components/tiles.md" >}}'>tile</a></span>
+    <span>solid</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row">
+    <span>outlined</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row">
+    <span>text</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row">
+    <span>toggle</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row">
+    <span>action</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row-section-header">
+    <span>Menus</span>
+  </div>
+  <div class="component-status-row">
+    <span>exposed</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row">
+    <a href='{{< ref "/components/menus/multi_select_dropdown.md" >}}'>multi-select</br>dropdown</a>
     <img src="svgs/cs-done.svg">
     <img src="svgs/cs-progress.svg">
     <img src="svgs/cs-done.svg">
     <img src="svgs/cs-progress.svg">
   </div>
   <div class="component-status-row-section-header">
-    <span>Menus</span>
+    <span>Tiles</span>
   </div>
   <div class="component-status-row">
-    <span><a href='{{< ref "/components/menus/multi_select_dropdown.md" >}}'>multi-select</a></span>
+    <span><a href='{{< ref "/components/tiles.md" >}}'>status</a></span>
     <img src="svgs/cs-done.svg">
     <img src="svgs/cs-progress.svg">
     <img src="svgs/cs-done.svg">
     <img src="svgs/cs-progress.svg">
   </div>
 </div>
-{{%/excerpt%}}
