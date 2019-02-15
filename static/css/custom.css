@@ -154,7 +154,7 @@ td {
   background-color: #eeeeee;
   width: 100%;
   display: flex;
-  padding: 5px;
+  padding: 5px 10px;
 }
 .component-status-table .component-status-row-section-header span {
   font-weight: bold;
@@ -162,7 +162,7 @@ td {
 .component-status-table .component-status-row {
   width: 100%;
   display: flex;
-  color: grey;
+  color: #555;
 }
 .component-status-table .component-status-row * {
   width: 20%;
