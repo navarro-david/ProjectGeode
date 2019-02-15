@@ -12,7 +12,11 @@ article > aside .menu .dd-item.active > div * {
 }
 
 article section.page h1:first-of-type {
-  font-family: "Roboto", "Arial", sans-serif;
+  font-family: "Arial", sans-serif;
+  text-transform: uppercase;
+  font-style: italic;
+  font-weight: bolder;
+  letter-spacing: -2px;
 }
 
 article section.page img {
@@ -112,13 +116,12 @@ td {
   text-decoration: none;
   float: left;
 }
-.component-status-legend li span > img {
-  margin: 2px;
-  display: inline-block;
-  vertical-align: middle;
-}
 .component-status-legend p {
   margin: 5px;
+}
+.component-status-legend img {
+  margin: 2px;
+  display: inline;
 }
 
 /*# sourceMappingURL=custom.css.map */
