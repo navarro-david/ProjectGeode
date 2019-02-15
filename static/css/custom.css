@@ -105,7 +105,9 @@ td {
 /**** Component Status Legend *****/
 .component-status-legend {
   margin: 10px 0;
+  min-width: 500px;
   width: 100%;
+  max-width: 1000px;
   display: flex;
   justify-content: flex-end;
   align-content: center;
@@ -121,12 +123,19 @@ td {
   margin-right: 3px;
 }
 
+.component-status-table-wrapper {
+  width: 100%;
+  overflow-x: auto;
+}
+
 .component-status-table {
   background-color: #f9f9f9;
+  min-width: 500px;
+  max-width: 1000px;
   border-radius: 3px;
   display: flex;
   flex-direction: column;
-  overflow: hidden;
+  overflow: auto;
 }
 .component-status-table a {
   pointer-events: none;
