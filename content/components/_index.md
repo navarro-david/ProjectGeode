@@ -59,6 +59,95 @@ draft: false
     <img src="svgs/cs-circle.svg">
   </div>
   <div class="component-status-row-section-header">
+    <span>Cards</span>
+  </div>
+  <div class="component-status-row">
+    <span>cards</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row-section-header">
+    <span>Chips</span>
+  </div>
+  <div class="component-status-row">
+    <span>input</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row">
+    <span>choice</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row">
+    <span>filter</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row">
+    <span>action</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row-section-header">
+    <span>Data Tables</span>
+  </div>
+  <div class="component-status-row">
+    <span>data tables</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row-section-header">
+    <span>Dialogues</span>
+  </div>
+  <div class="component-status-row">
+    <span>alert</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row">
+    <span>simple</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row">
+    <span>confirmation</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row">
+    <span>full screen</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row">
+    <span>toast</span>
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+    <img src="svgs/cs-circle.svg">
+  </div>
+  <div class="component-status-row-section-header">
     <span>Menus</span>
   </div>
   <div class="component-status-row">
