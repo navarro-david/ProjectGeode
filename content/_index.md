@@ -13,12 +13,10 @@ draft: false
 
 <h4>Component Status</h4>
 <div class="component-status-legend">
-  <ul>
-    <li><span><img src="svgs/cs-circle.svg" style="margin: 2px; display: inline; vertical-align: middle;"> Unassigned</span></li>
-    <li><span><img src="svgs/cs-queue.svg" style="margin: 2px; display: inline; vertical-align: middle;">Queued</span></li>
-    <li><span><img src="svgs/cs-progress.svg" style="margin: 2px; display: inline; vertical-align: middle;"> In Progress</span></li>
-    <li><span><img src="svgs/cs-done.svg" style="margin: 2px; display: inline; vertical-align: middle;"> Done</span></li>
-  </ul>
+  <div class="legend-item"><img src="svgs/cs-circle.svg">Unassigned</div>
+  <div class="legend-item"><img src="svgs/cs-queue.svg">Queued</div>
+  <div class="legend-item"><img src="svgs/cs-progress.svg">In Progress</div>
+  <div class="legend-item"><img src="svgs/cs-done.svg">Done</div>
 </div>
 <div class="component-status-table">
   <div class="component-status-row-main-header">

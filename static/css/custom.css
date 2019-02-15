@@ -103,29 +103,27 @@ td {
 
 /**** Color Palette Component Styling END *****/
 /**** Component Status Legend *****/
-.component-status-legend ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
+.component-status-legend {
+  margin: 10px 0;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-content: center;
 }
-.component-status-legend li {
-  display: block;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  float: left;
+.component-status-legend .legend-item {
+  margin-left: 15px;
+  margin-right: 5px;
+  display: flex;
+  align-content: center;
 }
-.component-status-legend p {
-  margin: 5px;
-}
-.component-status-legend img {
-  margin: 2px;
-  display: inline;
+.component-status-legend .legend-item * {
+  display: flex;
+  margin-right: 3px;
 }
 
 .component-status-table {
   background-color: #f9f9f9;
+  border-radius: 3px;
   display: flex;
   flex-direction: column;
   overflow: hidden;

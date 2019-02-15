@@ -121,31 +121,26 @@ td {
 /**** Component Status Legend *****/
 
 .component-status-legend {
-    ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-        overflow: hidden;
-    }
-    li {
-        display: block;
-        text-align: center;
-        padding: 14px 16px;
-        text-decoration: none;
-        float: left;
-    }
-    p {
-        margin: 5px;
-    }
-    img {
-        margin: 2px; 
-        display: inline; 
-        // vertical-align: middle;
+    margin: 10px 0;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-content: center;
+    .legend-item{
+        margin-left: 15px;
+        margin-right: 5px;
+        display: flex;
+        align-content: center;
+        *{
+            display: flex;
+            margin-right: 3px;
+        }
     }
 }
 
 .component-status-table{
     background-color: $theme-sidebar-color;
+    border-radius: 3px;
     display: flex;
     flex-direction: column;
     overflow: hidden;
