@@ -1,5 +1,7 @@
 $tn-accent-color: #97CA49;
 $tn-accent-color-hover: #B9E166;
+
+$theme-sidebar-color: #f9f9f9;
 /*************BEGIN*************/
 
 /***DocDock Styling Overrides***/
@@ -139,5 +141,57 @@ td {
         margin: 2px; 
         display: inline; 
         // vertical-align: middle;
+    }
+}
+
+.component-status-table{
+    background-color: $theme-sidebar-color;
+    display: flex;
+    flex-direction: column;
+    .component-status-row-main-header{
+        background-color: $tn-accent-color;
+        color: white;
+        font-weight: bold;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        padding: 0;
+        
+        *{
+            width: 20%;
+            border-right: white solid 1px;
+            padding: 8px 0;
+            text-align: center;
+        }
+        *:last-child{
+            border-right: none;
+        }
+    }
+    .component-status-row-section-header{
+        background-color: lightgrey;
+        width: 100%;
+        display: flex;
+        padding: 5px;
+        span{
+            font-weight: bold;
+        }
+    }
+    .component-status-row{
+        width: 100%;
+        display: flex;
+        align-items: center;
+
+        *{
+            width: 20%;
+            border-right: lightgrey solid 1px;
+            padding: 5px 0;
+            text-align: center;
+        }
+        *:first-child{
+            font-weight: bold;
+        }
+        *:last-child{
+            border-right: none;
+        }
     }
 }

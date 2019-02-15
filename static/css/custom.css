@@ -124,4 +124,54 @@ td {
   display: inline;
 }
 
+.component-status-table {
+  background-color: #f9f9f9;
+  display: flex;
+  flex-direction: column;
+}
+.component-status-table .component-status-row-main-header {
+  background-color: #97CA49;
+  color: white;
+  font-weight: bold;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding: 0;
+}
+.component-status-table .component-status-row-main-header * {
+  width: 20%;
+  border-right: white solid 1px;
+  padding: 8px 0;
+  text-align: center;
+}
+.component-status-table .component-status-row-main-header *:last-child {
+  border-right: none;
+}
+.component-status-table .component-status-row-section-header {
+  background-color: lightgrey;
+  width: 100%;
+  display: flex;
+  padding: 5px;
+}
+.component-status-table .component-status-row-section-header span {
+  font-weight: bold;
+}
+.component-status-table .component-status-row {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.component-status-table .component-status-row * {
+  width: 20%;
+  border-right: lightgrey solid 1px;
+  padding: 5px 0;
+  text-align: center;
+}
+.component-status-table .component-status-row *:first-child {
+  font-weight: bold;
+}
+.component-status-table .component-status-row *:last-child {
+  border-right: none;
+}
+
 /*# sourceMappingURL=custom.css.map */

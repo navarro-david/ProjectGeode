@@ -29,3 +29,37 @@ date: 2019-01-23T10:04:28-08:00
   </video>
 </div>
 
+<div class="component-status-table" style="margin-top: 10px;">
+  <div class="component-status-row-main-header">
+    <span>Item</span>
+    <span>Mockup</span>
+    <span>Guideline</span>
+    <span>Example Code</span>
+    <span>Implementation</span>
+  </div>
+  <div class="component-status-row">
+    <span>Item Name</span>
+    <span>Status</span>
+    <span>Status</span>
+    <span>Status</span>
+    <span>Status</span>
+  </div>
+  <div class="component-status-row-section-header">
+    <span>Menus</span>
+  </div>
+  <div class="component-status-row">
+    <span>Item Name</span>
+    <span>Status</span>
+    <span>Status</span>
+    <span>Status</span>
+    <span>Status</span>
+  </div>
+  <div class="component-status-row">
+    <span>Item Name</span>
+    <span>Status</span>
+    <span>Status</span>
+    <span>Status</span>
+    <span>Status</span>
+  </div>
+</div>
+
