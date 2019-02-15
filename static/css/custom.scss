@@ -148,6 +148,9 @@ td {
     background-color: $theme-sidebar-color;
     display: flex;
     flex-direction: column;
+    a{
+        pointer-events: none;
+    }
     .component-status-row-main-header{
         background-color: $tn-accent-color;
         color: white;
@@ -190,6 +193,9 @@ td {
         }
         *:first-child{
             font-weight: bold;
+            a{
+                pointer-events: auto;
+            }
         }
         *:last-child{
             border-right: none;
