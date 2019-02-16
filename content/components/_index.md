@@ -170,7 +170,7 @@ draft: false
       <img src="svgs/cs-circle.svg">
     </div>
     <div class="component-status-row">
-      <span><a href='{{< ref "/components/menus/multi_select_dropdown.md" >}}'>multi-select dropdown</a></span>
+      <span><a href='{{< ref "/components/menus/multi_select_dropdown.md" >}}'>multi-select</br>dropdown</a></span>
       <img src="svgs/cs-done.svg">
       <img src="svgs/cs-progress.svg">
       <img src="svgs/cs-done.svg">
