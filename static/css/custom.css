@@ -135,7 +135,6 @@ td {
   border-radius: 3px;
   display: flex;
   flex-direction: column;
-  overflow: auto;
 }
 .component-status-table a {
   pointer-events: none;
