@@ -4,10 +4,8 @@ date: 2019-01-23T10:04:28-08:00
 draft: false
 ---
 
-<div style="margin-bottom: 100px;">
-    <div style="display: flex; align-items: center; margin-top: 50px;">
-        <img src="/logo_name1.png" alt="" width="400">
-    </div>
+<div class="home-logo">
+    <img src="/logo_name1.png" alt="" width="400">
     <p>Welcome to Project Geode, your style guide to Teletrac Navman UI elements<p>
 </div>
 

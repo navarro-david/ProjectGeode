@@ -29,6 +29,17 @@ article section.page img {
 /*************END***************/
 /***DocDock Styling Overrides***/
 /*************END***************/
+.home-logo {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.home-logo > * {
+  display: block;
+  margin: 20px auto;
+}
+
 /**** Tab Styling ****/
 .tab {
   overflow: hidden;
@@ -123,6 +134,7 @@ td {
   margin-right: 3px;
 }
 
+/**** Component Status Table *****/
 .component-status-table-wrapper {
   width: 100%;
   overflow-x: auto;
