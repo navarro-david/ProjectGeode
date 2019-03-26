@@ -321,10 +321,10 @@ draft: false
     </div>
     <div class="component-status-row">
       <span>search</span>
+      <img src="svgs/cs-progress.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
-      <img src="svgs/cs-circle.svg">
-      <img src="svgs/cs-circle.svg">
+      <img src="svgs/cs-progress.svg">
     </div>
   </div>
 </div>

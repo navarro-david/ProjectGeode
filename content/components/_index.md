@@ -4,8 +4,6 @@ date: 2019-01-23T10:04:28-08:00
 draft: false
 ---
 
-
-<h4>Status</h4>
 <h4>Component Status</h4>
 <div class="component-status-table-wrapper">
   <div class="component-status-legend">
@@ -316,10 +314,10 @@ draft: false
     </div>
     <div class="component-status-row">
       <span>search</span>
+      <img src="svgs/cs-progress.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
-      <img src="svgs/cs-circle.svg">
-      <img src="svgs/cs-circle.svg">
+      <img src="svgs/cs-progress.svg">
     </div>
   </div>
 </div>
