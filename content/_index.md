@@ -23,6 +23,7 @@ draft: false
       <span>Mockup</span>
       <span>Guideline</span>
       <span>Example Code</span>
+      <span>Documentation</span>
       <span>Implementation</span>
     </div>
     <div class="component-status-row-section-header">
@@ -34,9 +35,11 @@ draft: false
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
+      <img src="svgs/cs-circle.svg">
     </div>
     <div class="component-status-row">
       <span>outlined</span>
+      <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
@@ -48,6 +51,7 @@ draft: false
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
+      <img src="svgs/cs-circle.svg">
     </div>
     <div class="component-status-row">
       <span>toggle</span>
@@ -55,9 +59,11 @@ draft: false
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
+      <img src="svgs/cs-circle.svg">
     </div>
     <div class="component-status-row">
       <span>action</span>
+      <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
@@ -72,12 +78,14 @@ draft: false
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
+      <img src="svgs/cs-circle.svg">
     </div>
     <div class="component-status-row-section-header">
       <span>Chips</span>
     </div>
     <div class="component-status-row">
       <span>input</span>
+      <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
@@ -89,6 +97,7 @@ draft: false
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
+      <img src="svgs/cs-circle.svg">
     </div>
     <div class="component-status-row">
       <span>filter</span>
@@ -96,9 +105,11 @@ draft: false
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
+      <img src="svgs/cs-circle.svg">
     </div>
     <div class="component-status-row">
       <span>action</span>
+      <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
@@ -113,12 +124,14 @@ draft: false
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
+      <img src="svgs/cs-circle.svg">
     </div>
     <div class="component-status-row-section-header">
       <span>Date Picker</span>
     </div>
     <div class="component-status-row">
       <span>date picker</span>
+      <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
@@ -133,9 +146,11 @@ draft: false
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
+      <img src="svgs/cs-circle.svg">
     </div>
     <div class="component-status-row">
       <span>simple</span>
+      <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
@@ -147,6 +162,7 @@ draft: false
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
+      <img src="svgs/cs-circle.svg">
     </div>
     <div class="component-status-row">
       <span>full screen</span>
@@ -154,9 +170,11 @@ draft: false
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
+      <img src="svgs/cs-circle.svg">
     </div>
     <div class="component-status-row">
       <span>toast</span>
+      <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
@@ -171,12 +189,14 @@ draft: false
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
+      <img src="svgs/cs-circle.svg">
     </div>
     <div class="component-status-row">
       <span><a href='{{< ref "/components/menus/multi_select_dropdown.md" >}}'>multi-select</br>dropdown</a></span>
       <img src="svgs/cs-done.svg">
       <img src="svgs/cs-progress.svg">
       <img src="svgs/cs-done.svg">
+      <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-progress.svg">
     </div>
       <div class="component-status-row-section-header">
@@ -188,9 +208,11 @@ draft: false
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
+      <img src="svgs/cs-circle.svg">
     </div>
     <div class="component-status-row">
       <span>secondary</span>
+      <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
@@ -202,9 +224,11 @@ draft: false
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
+      <img src="svgs/cs-circle.svg">
     </div>
     <div class="component-status-row">
       <span>navigation drawer</span>
+      <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
@@ -219,12 +243,14 @@ draft: false
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
+      <img src="svgs/cs-circle.svg">
     </div>
     <div class="component-status-row-section-header">
       <span>Selection Controls</span>
     </div>
     <div class="component-status-row">
       <span>checkbox</span>
+      <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
@@ -236,9 +262,11 @@ draft: false
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
+      <img src="svgs/cs-circle.svg">
     </div>
     <div class="component-status-row">
       <span>switch</span>
+      <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
@@ -253,12 +281,14 @@ draft: false
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
+      <img src="svgs/cs-circle.svg">
     </div>
     <div class="component-status-row-section-header">
       <span>Sliders</span>
     </div>
     <div class="component-status-row">
       <span>sliders</span>
+      <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
@@ -273,12 +303,14 @@ draft: false
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
+      <img src="svgs/cs-circle.svg">
     </div>
     <div class="component-status-row-section-header">
       <span>Tabs</span>
     </div>
     <div class="component-status-row">
       <span>tabs</span>
+      <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
@@ -293,6 +325,7 @@ draft: false
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
+      <img src="svgs/cs-circle.svg">
     </div>
     <div class="component-status-row-section-header">
       <span>Tiles</span>
@@ -302,6 +335,7 @@ draft: false
       <img src="svgs/cs-done.svg">
       <img src="svgs/cs-progress.svg">
       <img src="svgs/cs-done.svg">
+      <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-progress.svg">
     </div>
     <div class="component-status-row-section-header">
@@ -313,6 +347,7 @@ draft: false
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
+      <img src="svgs/cs-circle.svg">
     </div>
     <div class="component-status-row-section-header">
       <span>Search</span>
@@ -320,6 +355,7 @@ draft: false
     <div class="component-status-row">
       <span>search</span>
       <img src="svgs/cs-progress.svg">
+      <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-progress.svg">
