@@ -3,7 +3,6 @@ title: "Components"
 date: 2019-01-23T10:04:28-08:00
 draft: false
 ---
-
 <h4>Component Status</h4>
 <div class="component-status-table-wrapper">
   <div class="component-status-legend">
@@ -15,11 +14,11 @@ draft: false
   <div class="component-status-table">
     <div class="component-status-row-main-header">
       <span>Item</span>
-      <span>Mockup</span>
-      <span>Guideline</span>
-      <span>Example Code</span>
-      <span>Documentation</span>
+      <span>Wireframes</span>
+      <span>Style Guidelines</span>
+      <span>Interactive Mockups</span>
       <span>Implementation</span>
+      <span>Documentation</span>
     </div>
     <div class="component-status-row-section-header">
       <span>Buttons</span>

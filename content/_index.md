@@ -23,8 +23,8 @@ draft: false
       <span>Wireframes</span>
       <span>Style Guidelines</span>
       <span>Interactive Mockups</span>
-      <span>Documentation</span>
       <span>Implementation</span>
+      <span>Documentation</span>
     </div>
     <div class="component-status-row-section-header">
       <span>Buttons</span>
