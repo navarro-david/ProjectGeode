@@ -24,23 +24,7 @@ draft: false
       <span>Buttons</span>
     </div>
     <div class="component-status-row">
-      <span>solid</span>
-      <img src="svgs/cs-circle.svg">
-      <img src="svgs/cs-circle.svg">
-      <img src="svgs/cs-circle.svg">
-      <img src="svgs/cs-circle.svg">
-      <img src="svgs/cs-circle.svg">
-    </div>
-    <div class="component-status-row">
-      <span>outlined</span>
-      <img src="svgs/cs-circle.svg">
-      <img src="svgs/cs-circle.svg">
-      <img src="svgs/cs-circle.svg">
-      <img src="svgs/cs-circle.svg">
-      <img src="svgs/cs-circle.svg">
-    </div>
-    <div class="component-status-row">
-      <span>text</span>
+      <span>standard</span>
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-circle.svg">
@@ -190,8 +174,8 @@ draft: false
       <img src="svgs/cs-done.svg">
       <img src="svgs/cs-progress.svg">
       <img src="svgs/cs-done.svg">
-      <img src="svgs/cs-circle.svg">
-      <img src="svgs/cs-progress.svg">
+      <img src="svgs/cs-done.svg">
+      <img src="svgs/cs-queue.svg">
     </div>
       <div class="component-status-row-section-header">
       <span>Navigation</span>
@@ -329,7 +313,7 @@ draft: false
       <img src="svgs/cs-done.svg">
       <img src="svgs/cs-progress.svg">
       <img src="svgs/cs-done.svg">
-      <img src="svgs/cs-circle.svg">
+      <img src="svgs/cs-queue.svg">
       <img src="svgs/cs-progress.svg">
     </div>
     <div class="component-status-row-section-header">
@@ -349,8 +333,8 @@ draft: false
     <div class="component-status-row">
       <span>search</span>
       <img src="svgs/cs-progress.svg">
-      <img src="svgs/cs-circle.svg">
-      <img src="svgs/cs-circle.svg">
+      <img src="svgs/cs-progress.svg">
+      <img src="svgs/cs-progress.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-progress.svg">
     </div>
