@@ -20,9 +20,9 @@ draft: false
   <div class="component-status-table">
     <div class="component-status-row-main-header">
       <span>Item</span>
-      <span>Mockup</span>
-      <span>Guideline</span>
-      <span>Example Code</span>
+      <span>Wireframes</span>
+      <span>Style Guidelines</span>
+      <span>Interactive Mockups</span>
       <span>Documentation</span>
       <span>Implementation</span>
     </div>
