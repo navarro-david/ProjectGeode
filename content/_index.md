@@ -327,11 +327,19 @@ draft: false
     </div>
     <div class="component-status-row">
       <span>tooltips</span>
-      <img src="svgs/cs-circle.svg">
-      <img src="svgs/cs-circle.svg">
-      <img src="svgs/cs-circle.svg">
-      <img src="svgs/cs-circle.svg">
-      <img src="svgs/cs-circle.svg">
+      <img src="svgs/cs-done.svg">
+      <img src="svgs/cs-progress.svg">
+      <img src="svgs/cs-done.svg">
+      <img src="svgs/cs-progress.svg">
+      <img src="svgs/cs-progress.svg">
+    </div>
+    <div class="component-status-row">
+      <span>coachmarks</span>
+      <img src="svgs/cs-done.svg">
+      <img src="svgs/cs-progress.svg">
+      <img src="svgs/cs-done.svg">
+      <img src="svgs/cs-progress.svg">
+      <img src="svgs/cs-progress.svg">
     </div>
     <div class="component-status-row-section-header">
       <span>Search</span>
