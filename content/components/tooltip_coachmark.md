@@ -22,8 +22,8 @@ Things to know when using a tooltip or coachmark.
 
 <p>While they are fundamentally the same, thier uses differ.</p>
 <ul>
-  <li>A <strong>tooltip</strong> is used to explain what a tool or functionality is used for. Think of it as a snippet for a features list on the back of a product's box.</li>
-  <li>A <strong>coachmark</strong> is used to guide the user through your application. Think of it as a snippet for an instruction manual for a product.</li>
+  <li>A <strong>tooltip</strong> is used to explain what a button or tool is used for.</li>
+  <li>A <strong>coachmark</strong> is used to guide through a process or tutorial</li>
 </ul>
 
   <p class="codepen" data-height="265" data-theme-id="0" data-default-tab="result" data-user="navarro-david" data-slug-hash="KYNNRJ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="544E_tooltip_coachmark_im">

@@ -320,12 +320,20 @@ draft: false
       <span>Tooltips</span>
     </div>
     <div class="component-status-row">
-      <span>tooltips</span>
-      <img src="svgs/cs-circle.svg">
-      <img src="svgs/cs-circle.svg">
-      <img src="svgs/cs-circle.svg">
-      <img src="svgs/cs-circle.svg">
-      <img src="svgs/cs-circle.svg">
+      <span><a href='{{< ref "/components/tooltip_coachmark.md" >}}'>tooltip</a></span>
+      <img src="svgs/cs-done.svg">
+      <img src="svgs/cs-progress.svg">
+      <img src="svgs/cs-done.svg">
+      <img src="svgs/cs-progress.svg">
+      <img src="svgs/cs-progress.svg">
+    </div>
+    <div class="component-status-row">
+      <span><a href='{{< ref "/components/tooltip_coachmark.md" >}}'>coachmark</a></span>
+      <img src="svgs/cs-done.svg">
+      <img src="svgs/cs-progress.svg">
+      <img src="svgs/cs-done.svg">
+      <img src="svgs/cs-progress.svg">
+      <img src="svgs/cs-progress.svg">
     </div>
     <div class="component-status-row-section-header">
       <span>Search</span>

@@ -326,7 +326,7 @@ draft: false
       <span>Tooltips</span>
     </div>
     <div class="component-status-row">
-      <span>tooltips</span>
+      <span><a href='{{< ref "/components/tooltip_coachmark.md" >}}'>tooltip</a></span>
       <img src="svgs/cs-done.svg">
       <img src="svgs/cs-progress.svg">
       <img src="svgs/cs-done.svg">
@@ -334,7 +334,7 @@ draft: false
       <img src="svgs/cs-progress.svg">
     </div>
     <div class="component-status-row">
-      <span>coachmarks</span>
+      <span><a href='{{< ref "/components/tooltip_coachmark.md" >}}'>coachmark</a></span>
       <img src="svgs/cs-done.svg">
       <img src="svgs/cs-progress.svg">
       <img src="svgs/cs-done.svg">
