@@ -1,6 +1,6 @@
 ---
 title: "search bar"
-draft: true
+draft: false
 ---
 
 <h4>Overview</h4>
