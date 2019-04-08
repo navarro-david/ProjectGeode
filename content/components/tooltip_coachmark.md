@@ -19,7 +19,7 @@ Things to know when using a tooltip or coachmark.
 
 <h5> Tooltips and Coachmarks </h5>
 
-<p>While they are fundamentally the same, thier uses differ.</p>
+<p>While they are fundamentally the same, their uses differ.</p>
 <ul>
   <li>A <strong>tooltip</strong> is used to explain what a button or tool is used for.</li>
   <li>A <strong>coachmark</strong> is used to guide through a process or tutorial</li>
