@@ -1,7 +1,6 @@
 ---
 title: "COMPONENT_STATUS_TEMPLATE"
 draft: true
-date: 2019-01-23T10:04:28-08:00
 ---
 
 <h6>Leave in draft mode</h6>

@@ -1,7 +1,6 @@
 ---
 title: "tooltips and coachmarks"
 draft: false
-date: 2019-04-05T10:04:28-08:00
 ---
 
 <h4>Overview</h4>
