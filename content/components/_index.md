@@ -338,10 +338,10 @@ draft: false
       <span>Search</span>
     </div>
     <div class="component-status-row">
-      <span>search</span>
+      <span><a href='{{< ref "/components/search_bar.md" >}}'>search bar</a></span>
       <img src="svgs/cs-progress.svg">
       <img src="svgs/cs-progress.svg">
-      <img src="svgs/cs-progress.svg">
+      <img src="svgs/cs-done.svg">
       <img src="svgs/cs-circle.svg">
       <img src="svgs/cs-progress.svg">
     </div>

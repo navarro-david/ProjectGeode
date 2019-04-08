@@ -17,6 +17,7 @@ Things to know when using a tooltip or coachmark.
 <!-- Tab content -->
 <div id="tab1" class="tabcontent active" style="display: block;">
 
+<h4>Interaction Mockup of Tooltips and Coachmarks</h4>
 <h5> Tooltips and Coachmarks </h5>
 
 <p>While they are fundamentally the same, their uses differ.</p>
