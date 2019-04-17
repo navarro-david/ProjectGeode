@@ -226,11 +226,11 @@ draft: false
       <span>Selection Controls</span>
     </div>
     <div class="component-status-row">
-      <span>checkbox</span>
-      <img src="svgs/cs-circle.svg">
-      <img src="svgs/cs-circle.svg">
-      <img src="svgs/cs-circle.svg">
-      <img src="svgs/cs-circle.svg">
+      <span><a href='{{< ref "/components/checkbox.md" >}}'>checkbox</a></span>
+      <img src="svgs/cs-done.svg">
+      <img src="svgs/cs-progress.svg">
+      <img src="svgs/cs-done.svg">
+      <img src="svgs/cs-queue.svg">
       <img src="svgs/cs-circle.svg">
     </div>
     <div class="component-status-row">
