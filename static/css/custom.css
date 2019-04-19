@@ -153,6 +153,10 @@ td {
 .component-status-table a {
   pointer-events: none;
 }
+.component-status-table .component-status-body {
+  max-height: 50vh;
+  overflow-y: auto;
+}
 .component-status-table .component-status-row-main-header {
   background-color: #97CA49;
   color: white;

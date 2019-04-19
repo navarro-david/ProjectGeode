@@ -171,6 +171,10 @@ td {
     a{
         pointer-events: none;
     }
+    .component-status-body{
+        max-height: 50vh;
+        overflow-y: auto;
+    }
     .component-status-row-main-header{
         background-color: $tn-accent-color;
         color: white;
