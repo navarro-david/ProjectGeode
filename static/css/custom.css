@@ -210,5 +210,8 @@ td {
   vertical-align: middle;
   max-width: 16px;
 }
+.component-status-table .component-status-row:hover {
+  background: #eeeeee;
+}
 
 /*# sourceMappingURL=custom.css.map */
