@@ -167,6 +167,7 @@ td {
   padding: 0;
 }
 .component-status-table .component-status-row-main-header * {
+  flex-basis: 1;
   width: 20%;
   border-right: white solid 1px;
   padding: 8px 0;
@@ -190,9 +191,9 @@ td {
 }
 .component-status-table .component-status-row > * {
   width: 20%;
+  flex-basis: 1;
   display: flex;
   justify-content: center;
-  border-right: #eeeeee solid 1px;
   padding: 12px 0;
 }
 .component-status-table .component-status-row > *:first-child {
